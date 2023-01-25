@@ -55,7 +55,7 @@ Mobile App
 | **Name** | **Location** | **Time zone offset from Chicago (Chicago is 0 offset)** |
 | --- | --- | --- |
 | | | 0 |
-|  | | 0 |	
+| Blake Odette | Chicago, IL (On Campus) | 0 |	
 |  |  | 0 |	
 | Ayman Shuaibi | Chicago, IL (Off Campus) | 0 |		
 		
