@@ -18,7 +18,7 @@ On-campus IIT students can request safe transportation, quickly contact emergenc
 | **Name** | **Languages** | **FE Framework** | **BE Framework** | **Database** |
 | --- | --- | --- | --- | --- |
 | Tanay Dalal |  |  | |  |
-| Blake Odette | | |  |  |
+| Blake Odette | Java, Python, C/C++ | | | Oracle Database, Microsoft SQL Server |
 | Verica Karanakova |  | |  |  |
 | Ayman Shuaibi | Java, Python, JavaScript, C/C++ | AndroidStudio, ReactJS | None | PostgreSQL |
 
