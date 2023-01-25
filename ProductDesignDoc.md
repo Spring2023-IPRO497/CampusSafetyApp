@@ -11,7 +11,7 @@ On-campus IIT students can request safe transportation, quickly contact emergenc
 Illinois Tech students who live on campus and who go to campus.
 
 ### Other customer(s) or stakeholder(s)
-Illinois Tech
+Illinois Tech students, teachers, staff, etc. 
  
 ## Application type (web app, mobile, website, native client, …)
 Mobile App
