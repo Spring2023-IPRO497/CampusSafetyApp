@@ -22,7 +22,7 @@ Mobile App
 | --- | --- | --- | --- | --- |
 | Tanay Dalal | JavaScript |  |  ReactJS |  Microsoft SQL Server  |
 | Blake Odette | Java, Python, C/C++ | | | Oracle Database, Microsoft SQL Server |
-| Verica Karanakova |  | |  |  |
+| Verica Karanakova | Java, Python, C | AndroidStudio | AndroidStudio | PostgreSQL |
 | Ayman Shuaibi | Java, Python, JavaScript, C/C++ | AndroidStudio, ReactJS | NodeJS | PostgreSQL |
 
 #### Client Tech 
@@ -47,14 +47,16 @@ Mobile App
 ## Scenarios
 
 ### Scenario #1
+It is finals week and Maddy heads over to the library to study.  Before she realizes it, it is 11:30 PM and she needs to get to her car and go home.  However, Maddy does not feel safe walking alone to her car at night.  She opens up the IIT Safety App and is able to quickly request safe transportation from the library to the parking lot.  Once requested she waits for the car to arrive.
 
 ### Scenario #2
+John is walking to his dorm room from class at 9 PM.  On the way to his dorm room he notices someone smashing a directory sign with a hammer.  John quickly takes out his phone and opens the IIT Safety App.  In the app he reports that he saw tall (around 6') slim man hitting the IIT directory sign on the corner of 33rd and State around 9 PM. 
 
 
 ## Team Members
 | **Name** | **Location** | **Time zone offset from Chicago (Chicago is 0 offset)** |
 | --- | --- | --- |
-| | | 0 |
+| Verica Karanakova | Chicago, IL (Off Campus) | 0 |
 | Blake Odette | Chicago, IL (On Campus) | 0 |	
 | Tanay Dalal | Chicago,IL (On Campus)  | 0 |	
 | Ayman Shuaibi | Chicago, IL (Off Campus) | 0 |		
@@ -87,9 +89,9 @@ Mobile App
 | 1 - Problem Framing                                 | Ayman |
 | 2 - Problem Framing                                 | Ayman |
 | 3 - Problem Framing                                 |  |
-| 4 - Problem Framing                                 |  |
-| 5 - Think, build, test, and demo for midterm        | |
-| 6 - Think, build, test, and demo for midterm        |  |
+| 4 - Problem Framing                                 | Verica |
+| 5 - Think, build, test, and demo for midterm        | Verica |
+| 6 - Think, build, test, and demo for midterm        | Verica |
 | 7 - Think, build, test, and demo for midterm        |  |
 | 8 - Think, build, test, and demo for midterm        |  |
 | 9 - Think, build, test, and demo for final          |  |
