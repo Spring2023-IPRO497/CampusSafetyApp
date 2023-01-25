@@ -95,9 +95,9 @@ John is walking to his dorm room from class at 9 PM.  On the way to his dorm roo
 | 7 - Think, build, test, and demo for midterm        | Tanay |
 | 8 - Think, build, test, and demo for midterm        | Tanay |
 | 9 - Think, build, test, and demo for final          | Tanay |
-| 10 - Think, build, test, and demo for final	      |    |
-| 11 - Think, build, test, and demo for final         |   |
-| 12 - Think, build, test, and demo for final         |  |
+| 10 - Think, build, test, and demo for final	      | Blake |
+| 11 - Think, build, test, and demo for final         | Blake |
+| 12 - Think, build, test, and demo for final         | Blake |
 | 13 - Think, build, test, and demo for final         | Ayman |
 | 14 - Presentation dry run                           | Everyone |
 | 15 - Presentation                                   | Everyone |
