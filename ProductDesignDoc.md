@@ -20,7 +20,7 @@ Mobile App
 
 | **Name** | **Languages** | **FE Framework** | **BE Framework** | **Database** |
 | --- | --- | --- | --- | --- |
-| Tanay Dalal |  |  | |  |
+| Tanay Dalal | JavaScript |  |  ReactJS |  Microsoft SQL Server  |
 | Blake Odette | Java, Python, C/C++ | | | Oracle Database, Microsoft SQL Server |
 | Verica Karanakova |  | |  |  |
 | Ayman Shuaibi | Java, Python, JavaScript, C/C++ | AndroidStudio, ReactJS | NodeJS | PostgreSQL |
@@ -33,15 +33,15 @@ Mobile App
 
 ## Top Application Capabilities (name at least 5)
 
-### 1. Request safe transporation around campus
+### 1. 
 
-### 2. One-touch access to emergency peronnel 
+### 2. 
 
-### 3. Campus safety/emergency reports sent to users via notification
+### 3. 
 
-### 4. Access to an anonymous service for reporting suspicious or dangerous activity on campus
+### 4. 
 
-### 5. Secure login to ensure resources are available only to IIT students and staff
+### 5. 
 
 
 ## Scenarios
@@ -56,7 +56,7 @@ Mobile App
 | --- | --- | --- |
 | | | 0 |
 | Blake Odette | Chicago, IL (On Campus) | 0 |	
-|  |  | 0 |	
+| Tanay Dalal | Chicago,IL (On Campus)  | 0 |	
 | Ayman Shuaibi | Chicago, IL (Off Campus) | 0 |		
 		
 ### Unacceptable behavior
