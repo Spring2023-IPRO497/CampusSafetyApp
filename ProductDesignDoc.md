@@ -23,7 +23,7 @@ Mobile App
 | Tanay Dalal |  |  | |  |
 | Blake Odette | Java, Python, C/C++ | | | Oracle Database, Microsoft SQL Server |
 | Verica Karanakova |  | |  |  |
-| Ayman Shuaibi | Java, Python, JavaScript, C/C++ | AndroidStudio, ReactJS | None | PostgreSQL |
+| Ayman Shuaibi | Java, Python, JavaScript, C/C++ | AndroidStudio, ReactJS | NodeJS | PostgreSQL |
 
 #### Client Tech 
 
