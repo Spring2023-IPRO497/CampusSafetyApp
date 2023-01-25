@@ -67,7 +67,7 @@ On-campus IIT students can request safe transportation, quickly contact emergenc
 - We will use Github and keep items updated as progress is made
 - If we need to meet outside of class we have found a mutually agreeable time at: Decided per week
 - When we are not meeting together we will use the following tool/tech for communications: Discord
-- How will get collaborate and a friendly, professional and cohesive team (please complete the list below)
+- How will get collaborate and a friendly, professional and cohesive team
   - Be polite to each other (Do not speak over each other, Do not talk down on others ideas, etc)
   - Consider everyone opinions
   - Share their thoughts on the current task
