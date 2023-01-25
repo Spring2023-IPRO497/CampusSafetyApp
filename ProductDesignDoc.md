@@ -57,10 +57,25 @@ On-campus IIT students can request safe transportation, quickly contact emergenc
 | Ayman Shuaibi | Chicago, IL (Off Campus) | 0 |		
 		
 ### Unacceptable behavior
-- 
+- Being rude or condescending behavior
+- Ignoring other people’s opinions
+- Lack of updates if there are any issues with deadlines or meeting times
+- Dodging meetings
+- Lack of fulfilling obligations due to laziness or other unexcused reasons 
 
 ### Team Working Agreement
-- 
+- We will use Github and keep items updated as progress is made
+- If we need to meet outside of class we have found a mutually agreeable time at: Decided per week
+- When we are not meeting together we will use the following tool/tech for communications: Discord
+- How will get collaborate and a friendly, professional and cohesive team (please complete the list below)
+  - Be polite to each other (Do not speak over each other, Do not talk down on others ideas, etc)
+  - Consider everyone opinions
+  - Share their thoughts on the current task
+  - Finish their task piece on time with good quality
+  - Attend every team meeting
+  - Contribute their work for the team
+  - How will we productively solve disagreements
+  - We will listen to everyone’s opinions without judgment and decide as a team on the best course of action without singling anyone out.
 
 ## Sprint Schedule
 
