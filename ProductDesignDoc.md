@@ -33,15 +33,15 @@ Mobile App
 
 ## Top Application Capabilities (name at least 5)
 
-### 1. 
+### 1. Request safe transporation around campus
 
-### 2. 
+### 2. One-touch access to emergency peronnel
 
-### 3. 
+### 3. Campus safety/emergency reports sent to users via notification 
 
-### 4. 
+### 4. Access to an anonymous service for reporting suspicious or dangerous activity on campus
 
-### 5. 
+### 5. Secure login to ensure resources are available only to IIT students and staff
 
 
 ## Scenarios
