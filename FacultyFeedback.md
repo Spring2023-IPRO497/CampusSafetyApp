@@ -7,6 +7,8 @@
 ## Week 2 ##
 
 ## Week 3 ##
+- Consider using fist of five voting to make visible your decision making processes: [Teaching link](https://github.com/mschray/IPro497Sample/blob/main/External%20Course%20Aids/Fist%20%20of%20Five%20teaching%20feedback.jpg) and [Team](https://github.com/mschray/IPro497Sample/blob/main/External%20Course%20Aids/Fist%20of%20five%20team%20feedback.jpg) to get clear feedback
+- Break up work and reconnect on work done individually
 
 ## Week 4 ##
 
