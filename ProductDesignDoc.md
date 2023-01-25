@@ -88,7 +88,7 @@ John is walking to his dorm room from class at 9 PM.  On the way to his dorm roo
 | --------  | ------------------- |
 | 1 - Problem Framing                                 | Ayman |
 | 2 - Problem Framing                                 | Ayman |
-| 3 - Problem Framing                                 |  |
+| 3 - Problem Framing                                 | Ayman |
 | 4 - Problem Framing                                 | Verica |
 | 5 - Think, build, test, and demo for midterm        | Verica |
 | 6 - Think, build, test, and demo for midterm        | Verica |
@@ -97,7 +97,7 @@ John is walking to his dorm room from class at 9 PM.  On the way to his dorm roo
 | 9 - Think, build, test, and demo for final          |  |
 | 10 - Think, build, test, and demo for final	      |    |
 | 11 - Think, build, test, and demo for final         |   |
-| 12 - Think, build, test, and demo for final         | Ayman |
+| 12 - Think, build, test, and demo for final         |  |
 | 13 - Think, build, test, and demo for final         | Ayman |
 | 14 - Presentation dry run                           | Everyone |
 | 15 - Presentation                                   | Everyone |
