@@ -81,8 +81,8 @@ On-campus IIT students can request safe transportation, quickly contact emergenc
 
 | Week | Sprint Leader |
 | --------  | ------------------- |
-| 1 - Problem Framing                                 |  |
-| 2 - Problem Framing                                 |  |
+| 1 - Problem Framing                                 | Ayman |
+| 2 - Problem Framing                                 | Ayman |
 | 3 - Problem Framing                                 |  |
 | 4 - Problem Framing                                 |  |
 | 5 - Think, build, test, and demo for midterm        | |
@@ -92,7 +92,7 @@ On-campus IIT students can request safe transportation, quickly contact emergenc
 | 9 - Think, build, test, and demo for final          |  |
 | 10 - Think, build, test, and demo for final	      |    |
 | 11 - Think, build, test, and demo for final         |   |
-| 12 - Think, build, test, and demo for final         |  |
-| 13 - Think, build, test, and demo for final         |  |
+| 12 - Think, build, test, and demo for final         | Ayman |
+| 13 - Think, build, test, and demo for final         | Ayman |
 | 14 - Presentation dry run                           | Everyone |
 | 15 - Presentation                                   | Everyone |
