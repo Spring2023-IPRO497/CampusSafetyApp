@@ -27,9 +27,15 @@ Mobile App
 
 #### Client Tech 
 
+
+
 #### Server Tech
 
+Android Studio
+
 #### Database
+
+
 
 ## Top Application Capabilities (name at least 5)
 
