@@ -21,7 +21,7 @@ Mobile App
 | **Name** | **Languages** | **FE Framework** | **BE Framework** | **Database** |
 | --- | --- | --- | --- | --- |
 | Tanay Dalal | JavaScript | none |  ReactJS |  Microsoft SQL Server  |
-| Blake Odette | Java, Python, C/C++ | | | Oracle Database, Microsoft SQL Server |
+| Blake Odette | Java, Python, C/C++ | AndroidStudio | AndroidStudio | Oracle Database, Microsoft SQL Server |
 | Verica Karanakova | Java, Python, C | AndroidStudio | AndroidStudio | PostgreSQL |
 | Ayman Shuaibi | Java, Python, JavaScript, C/C++ | AndroidStudio, ReactJS | NodeJS | PostgreSQL |
 
