@@ -11,8 +11,16 @@
 - Break up work and reconnect on work done individually
 
 ## Week 4 ##
-
+- PDD approved
+- Keep building your backlog
+- 
 ## Week 5 ##
+- Continue to build out your backlog
+- Make sure that stories have descriptions
+- Size stories to fit in about a class period of work 
+- Make acceptance criteria so know what to do and when your done
+- Make sure stories have owners 
+- Make sure everyone has a working microphone
 
 ## Week 6 ##
 
