@@ -31,7 +31,7 @@ Mobile App
 
 #### Server Tech
 
-Android Studio
+Apache Cordova
 
 #### Database
 
