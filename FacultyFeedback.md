@@ -23,6 +23,9 @@
 - Make sure everyone has a working microphone
 
 ## Week 6 ##
+- Make sure the sprint review lead creates the following in Github -https://github.com/mschray/IPro497Sample/blob/main/Course%20Content/SprintReviewProjectViews.md
+- Make sure stories have acceptance criteria
+- Take a look at the midterm presentation deck so you know what is in it -https://github.com/mschray/IPro497Sample/blob/main/Course%20Content/Mid%20course%20presentation%20template.pptx
 
 ## Week 7 ##
 
