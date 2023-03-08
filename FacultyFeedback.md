@@ -34,6 +34,10 @@
 ## Week 9 ##
 
 ## Week 10 ##
+- Are you also think in the future about other campuses?
+- If your selected speaker isn't speaking someone should just jump in and takeover (be ready to present anyone's slides)
+- How much for annual the subscription?  Would IIT pay?  
+- Live code demo?
 
 ## Week 11 ##
 
