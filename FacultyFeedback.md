@@ -42,6 +42,7 @@
 ## Week 11 ##
 
 ## Week 12 ##
+- Identify stories that you need to complete to do your final demo (take a look are your scenarios to see what you need to complete and make sure those stories on the board and tagged as "final demo")
 
 ## Week 13 ##
 
