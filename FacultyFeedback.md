@@ -40,9 +40,14 @@
 - Live code demo?
 
 ## Week 11 ##
-
-## Week 12 ##
 - Identify stories that you need to complete to do your final demo (take a look are your scenarios to see what you need to complete and make sure those stories on the board and tagged as "final demo")
+## Week 12 ##
+- Please review your scenarios  
+	- Update scenario(s) to match the vision you have worked out
+	- Add stories and labels on the board to realize this scenario as a demo
+- Dry run final presentation and demo (4/18/23)
+- Final presentation and demo (4/25/2022)
+Innovation Day (Friday 4/28/2023) Mandatory attendance all students (9:00 AM – 1:30 PM)
 
 ## Week 13 ##
 
