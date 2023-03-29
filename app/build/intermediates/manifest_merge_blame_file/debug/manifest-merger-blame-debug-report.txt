@@ -1,0 +1,77 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.ipro.iitridesafe"
+4    android:hardwareAccelerated="true"
+5    android:versionCode="10000"
+6    android:versionName="1.0.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="22"
+9-->C:\Users\Shuaibi\Downloads\CampusSafetyApp-main\CampusSafetyApp-main\platforms\android\app\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="30" />
+10-->C:\Users\Shuaibi\Downloads\CampusSafetyApp-main\CampusSafetyApp-main\platforms\android\app\src\main\AndroidManifest.xml
+11
+12    <supports-screens
+12-->C:\Users\Shuaibi\Downloads\CampusSafetyApp-main\CampusSafetyApp-main\platforms\android\app\src\main\AndroidManifest.xml:3:5-191
+13        android:anyDensity="true"
+13-->C:\Users\Shuaibi\Downloads\CampusSafetyApp-main\CampusSafetyApp-main\platforms\android\app\src\main\AndroidManifest.xml:3:23-48
+14        android:largeScreens="true"
+14-->C:\Users\Shuaibi\Downloads\CampusSafetyApp-main\CampusSafetyApp-main\platforms\android\app\src\main\AndroidManifest.xml:3:49-76
+15        android:normalScreens="true"
+15-->C:\Users\Shuaibi\Downloads\CampusSafetyApp-main\CampusSafetyApp-main\platforms\android\app\src\main\AndroidManifest.xml:3:77-105
+16        android:resizeable="true"
+16-->C:\Users\Shuaibi\Downloads\CampusSafetyApp-main\CampusSafetyApp-main\platforms\android\app\src\main\AndroidManifest.xml:3:106-131
+17        android:smallScreens="true"
+17-->C:\Users\Shuaibi\Downloads\CampusSafetyApp-main\CampusSafetyApp-main\platforms\android\app\src\main\AndroidManifest.xml:3:132-159
+18        android:xlargeScreens="true" />
+18-->C:\Users\Shuaibi\Downloads\CampusSafetyApp-main\CampusSafetyApp-main\platforms\android\app\src\main\AndroidManifest.xml:3:160-188
+19
+20    <uses-permission android:name="android.permission.INTERNET" />
+20-->C:\Users\Shuaibi\Downloads\CampusSafetyApp-main\CampusSafetyApp-main\platforms\android\app\src\main\AndroidManifest.xml:4:5-67
+20-->C:\Users\Shuaibi\Downloads\CampusSafetyApp-main\CampusSafetyApp-main\platforms\android\app\src\main\AndroidManifest.xml:4:22-64
+21
+22    <application
+22-->C:\Users\Shuaibi\Downloads\CampusSafetyApp-main\CampusSafetyApp-main\platforms\android\app\src\main\AndroidManifest.xml:5:5-12:19
+23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+23-->[androidx.core:core:1.5.0] C:\Users\Shuaibi\.gradle\caches\transforms-3\09314801a92bc2d84a1fe4a156efb7a9\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+24        android:debuggable="true"
+25        android:hardwareAccelerated="true"
+25-->C:\Users\Shuaibi\Downloads\CampusSafetyApp-main\CampusSafetyApp-main\platforms\android\app\src\main\AndroidManifest.xml:5:18-52
+26        android:icon="@mipmap/ic_launcher"
+26-->C:\Users\Shuaibi\Downloads\CampusSafetyApp-main\CampusSafetyApp-main\platforms\android\app\src\main\AndroidManifest.xml:5:53-87
+27        android:label="@string/app_name"
+27-->C:\Users\Shuaibi\Downloads\CampusSafetyApp-main\CampusSafetyApp-main\platforms\android\app\src\main\AndroidManifest.xml:5:88-120
+28        android:supportsRtl="true"
+28-->C:\Users\Shuaibi\Downloads\CampusSafetyApp-main\CampusSafetyApp-main\platforms\android\app\src\main\AndroidManifest.xml:5:121-147
+29        android:testOnly="true" >
+30        <activity
+30-->C:\Users\Shuaibi\Downloads\CampusSafetyApp-main\CampusSafetyApp-main\platforms\android\app\src\main\AndroidManifest.xml:6:9-11:20
+31            android:name="com.ipro.iitridesafe.MainActivity"
+31-->C:\Users\Shuaibi\Downloads\CampusSafetyApp-main\CampusSafetyApp-main\platforms\android\app\src\main\AndroidManifest.xml:6:229-256
+32            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|smallestScreenSize|screenLayout|uiMode"
+32-->C:\Users\Shuaibi\Downloads\CampusSafetyApp-main\CampusSafetyApp-main\platforms\android\app\src\main\AndroidManifest.xml:6:19-135
+33            android:exported="true"
+33-->C:\Users\Shuaibi\Downloads\CampusSafetyApp-main\CampusSafetyApp-main\platforms\android\app\src\main\AndroidManifest.xml:6:136-159
+34            android:label="@string/activity_name"
+34-->C:\Users\Shuaibi\Downloads\CampusSafetyApp-main\CampusSafetyApp-main\platforms\android\app\src\main\AndroidManifest.xml:6:160-197
+35            android:launchMode="singleTop"
+35-->C:\Users\Shuaibi\Downloads\CampusSafetyApp-main\CampusSafetyApp-main\platforms\android\app\src\main\AndroidManifest.xml:6:198-228
+36            android:theme="@style/Theme.AppCompat.NoActionBar"
+36-->C:\Users\Shuaibi\Downloads\CampusSafetyApp-main\CampusSafetyApp-main\platforms\android\app\src\main\AndroidManifest.xml:6:257-307
+37            android:windowSoftInputMode="adjustResize" >
+37-->C:\Users\Shuaibi\Downloads\CampusSafetyApp-main\CampusSafetyApp-main\platforms\android\app\src\main\AndroidManifest.xml:6:308-350
+38            <intent-filter android:label="@string/launcher_name" >
+38-->C:\Users\Shuaibi\Downloads\CampusSafetyApp-main\CampusSafetyApp-main\platforms\android\app\src\main\AndroidManifest.xml:7:13-10:29
+38-->C:\Users\Shuaibi\Downloads\CampusSafetyApp-main\CampusSafetyApp-main\platforms\android\app\src\main\AndroidManifest.xml:7:28-65
+39                <action android:name="android.intent.action.MAIN" />
+39-->C:\Users\Shuaibi\Downloads\CampusSafetyApp-main\CampusSafetyApp-main\platforms\android\app\src\main\AndroidManifest.xml:8:17-69
+39-->C:\Users\Shuaibi\Downloads\CampusSafetyApp-main\CampusSafetyApp-main\platforms\android\app\src\main\AndroidManifest.xml:8:25-66
+40
+41                <category android:name="android.intent.category.LAUNCHER" />
+41-->C:\Users\Shuaibi\Downloads\CampusSafetyApp-main\CampusSafetyApp-main\platforms\android\app\src\main\AndroidManifest.xml:9:17-77
+41-->C:\Users\Shuaibi\Downloads\CampusSafetyApp-main\CampusSafetyApp-main\platforms\android\app\src\main\AndroidManifest.xml:9:27-74
+42            </intent-filter>
+43        </activity>
+44    </application>
+45
+46</manifest>
