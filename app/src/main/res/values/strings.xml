@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">IIT RideSafe</string>
+    <string name="contact_public_safety" />
+    <string name="safe_transportation" />
+    <string name="report_suspicious_activity" />
+</resources>
