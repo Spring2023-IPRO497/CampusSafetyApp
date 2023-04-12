@@ -4,6 +4,58 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#0066CC"
     tools:context=".SuspiciousActivity">
+
+    <EditText
+        android:id="@+id/changeTitle"
+        android:layout_width="380dp"
+        android:layout_height="35dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:background="#e8f2fd"
+        android:hint=" Enter location/building of suspicious activity"
+        android:inputType="text"
+        android:singleLine="true"
+        android:textColor="#000000"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.517"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="TouchTargetSizeCheck,DuplicateSpeakableTextCheck"
+        tools:text="Title" />
+
+    <EditText
+        android:id="@+id/editInfo"
+        android:layout_width="380dp"
+        android:layout_height="516dp"
+        android:layout_marginTop="10dp"
+        android:background="#e8f2fd"
+        android:gravity="top|left"
+        android:hint=" Please specify any details (i.e. what happened,\n what the suspect looks like, time/date)"
+        android:inputType="text"
+        android:singleLine="false"
+        android:textAlignment="textStart"
+        android:textColor="#000000"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toTopOf="@+id/button2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/changeTitle"
+        app:layout_constraintVertical_bias="0.0"
+        tools:text="info" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="60dp"
+        android:text="Submit"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
