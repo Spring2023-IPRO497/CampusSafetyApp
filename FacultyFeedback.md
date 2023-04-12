@@ -45,6 +45,11 @@
 - Identify stories that you need to complete to do your final demo (take a look are your scenarios to see what you need to complete and make sure those stories on the board and tagged as "final demo")
 
 ## Week 13 ##
+- Keep main up to date with regular pull requests to bring branches to main
+- Ways to get help in an agile (scrum) team
+  - talk to the duck - https://en.wikipedia.org/wiki/Rubber_duck_debugging
+  - Ask for help as a part of you stand up talk about blockers
+  - Ask for someone to join you in debugging and explain what each line is doing in the problem area
 
 ## Week 14 ##
 
