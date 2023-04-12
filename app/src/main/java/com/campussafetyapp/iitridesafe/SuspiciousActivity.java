@@ -11,6 +11,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
+import java.util.Date;
+
 public class SuspiciousActivity extends AppCompatActivity {
 
     EditText infot;
@@ -20,6 +22,7 @@ public class SuspiciousActivity extends AppCompatActivity {
     Reports report;
     String info;
     String title;
+    String date;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -34,9 +37,10 @@ public class SuspiciousActivity extends AppCompatActivity {
     }
 
     public void submitClicked(View view){
+        date = new Date().toString();
         info = infot.getText().toString();
         title = titlet.getText().toString();
-        report = new Reports(title, info);
+        report = new Reports(title, info, date);
         onBackPressed();
     }
 
@@ -49,7 +53,9 @@ public class SuspiciousActivity extends AppCompatActivity {
                 public void onClick(DialogInterface dialogInterface, int i) {
                     info = infot.getText().toString();
                     title = titlet.getText().toString();
-                    report = new Reports(title, info);
+                    date = new Date().toString();
+                    report = new Reports(title, info, date);
+                    SuspiciousActivity.super.onBackPressed();
                 }
             });
             builder.setNegativeButton("NO", new DialogInterface.OnClickListener() {
