@@ -52,5 +52,7 @@
   - Ask for someone to join you in debugging and explain what each line is doing in the problem area
 
 ## Week 14 ##
+- Making good progress but you need to have more done to have a more complete demo.  You have basically 4 screens to get working before the demo.
+- Dry run and final demo template - https://github.com/mschray/IPro497Sample/blob/main/Course%20Content/Final%20Presentation%20Template.pptx
 
 ## Week 15 ##
