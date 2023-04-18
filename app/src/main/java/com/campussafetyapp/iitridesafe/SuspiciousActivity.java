@@ -33,6 +33,15 @@ public class SuspiciousActivity extends AppCompatActivity {
         infot = (EditText) findViewById(R.id.editInfo);
         submit = (Button) findViewById(R.id.submitButton);
 
+        submit.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                MyDatabaseHelper db = new MyDatabaseHelper(SuspiciousActivity.this);
+                db.insertData(titlet.getText().toString().trim(),
+                        infot.getText().toString().trim());
+            }
+        });
+
         infot.setMovementMethod(new ScrollingMovementMethod());
     }
 

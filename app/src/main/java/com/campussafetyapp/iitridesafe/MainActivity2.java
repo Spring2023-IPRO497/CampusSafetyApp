@@ -31,6 +31,10 @@ public class MainActivity2 extends AppCompatActivity {
                     Intent intent = new Intent(getApplicationContext(), SecondActivity.class);
                     startActivity(intent);
                 }
+                else{
+                    Intent intent = new Intent(getApplicationContext(), SecondActivity.class);
+                    startActivity(intent);
+                }
             }
         });
         webView.loadUrl(url);
