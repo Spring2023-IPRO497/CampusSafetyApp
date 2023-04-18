@@ -23,6 +23,8 @@ public class MainActivity extends AppCompatActivity {
 
     public void login(View view){
         Intent i = new Intent(MainActivity.this, MainActivity2.class);
+        MyDatabaseHelper db = new MyDatabaseHelper(MainActivity.this);
+        db.deleteAllData();
         startActivity(i);
     }
 }

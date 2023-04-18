@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#4CAF50"
+    android:background="@drawable/iitcampus2"
     tools:context=".MainActivity">
 
 
@@ -24,14 +24,16 @@
         android:id="@+id/loginButton"
         android:layout_width="0dp"
         android:layout_height="111dp"
-        android:layout_marginEnd="50dp"
-        android:backgroundTint="@color/black"
+        android:layout_marginStart="85dp"
+        android:layout_marginEnd="85dp"
+        android:backgroundTint="#2D9BDA"
         android:onClick="login"
         android:shape="oval"
         android:text="Login"
         android:textSize="34sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
