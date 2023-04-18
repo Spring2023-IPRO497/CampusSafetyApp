@@ -12,7 +12,8 @@
         android:id="@+id/titleText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="IIT RideSafe"
+        android:text="IIT SafeRide"
+        android:textColor="@color/black"
         android:textSize="50sp"
         app:layout_constraintBottom_toTopOf="@+id/loginButton"
         app:layout_constraintEnd_toEndOf="parent"
@@ -21,16 +22,17 @@
 
     <Button
         android:id="@+id/loginButton"
-        android:layout_width="188dp"
+        android:layout_width="0dp"
         android:layout_height="111dp"
+        android:layout_marginEnd="50dp"
         android:backgroundTint="@color/black"
         android:onClick="login"
+        android:shape="oval"
         android:text="Login"
         android:textSize="34sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        android:shape="oval"/>
+        app:layout_constraintTop_toTopOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
