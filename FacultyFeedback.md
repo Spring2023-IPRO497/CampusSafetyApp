@@ -56,3 +56,7 @@
 - Dry run and final demo template - https://github.com/mschray/IPro497Sample/blob/main/Course%20Content/Final%20Presentation%20Template.pptx
 
 ## Week 15 ##
+- Someone was missing when they where to present their slide
+- Make sure transitions are smooth.  Not two people talking and not no one talking
+- Handing off by name is much smoother.  For example, now Ayman will be sharing a demo of our application.
+- You don't want show me your reports database.
