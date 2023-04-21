@@ -6,6 +6,7 @@ import android.content.Intent;
 import android.graphics.Bitmap;
 import android.os.Bundle;
 import android.util.Log;
+import android.webkit.WebResourceRequest;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 
@@ -27,7 +28,7 @@ public class MainActivity2 extends AppCompatActivity {
         webView.setWebViewClient(new WebViewClient() {
             @Override
             public void onPageFinished(WebView view, String checkUrl) {
-                super.onPageFinished(view, checkUrl);
+//                super.onPageFinished(view, checkUrl);
                 if(checkUrl.equals("https://my.iit.edu/web/home-community/welcome")) {
                     Intent intent = new Intent(getApplicationContext(), SecondActivity.class);
                     startActivity(intent);
