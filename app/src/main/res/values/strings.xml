@@ -3,4 +3,5 @@
     <string name="contact_public_safety" />
     <string name="safe_transportation" />
     <string name="report_suspicious_activity" />
+    <string name="login">Login</string>
 </resources>
