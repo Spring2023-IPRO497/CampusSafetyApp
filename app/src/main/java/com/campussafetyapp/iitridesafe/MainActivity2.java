@@ -13,8 +13,34 @@ import android.webkit.WebViewClient;
 public class MainActivity2 extends AppCompatActivity {
 
     WebView webView;
+    
+     @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        getSupportActionBar().hide();
+        setContentView(R.layout.activity_main2);
 
-    @Override
+        String url = "https://iit.okta.com/login/login.htm";
+
+        webView = findViewById(R.id.webView1);
+        webView.getSettings().setJavaScriptEnabled(true);
+        webView.getSettings().setJavaScriptCanOpenWindowsAutomatically(true);
+        webView.setWebViewClient(new WebViewClient() {
+            @Override
+            public void onPageFinished(WebView view, String checkUrl) {
+                super.onPageFinished(view, checkUrl);
+                if(checkUrl.contains("iit.okta.com/app/UserHome")) {
+                    Intent intent = new Intent(getApplicationContext(), SecondActivity.class);
+                    startActivity(intent);
+                }
+            }
+        });
+        WebSettings settings = webView.getSettings();
+        settings.setDomStorageEnabled(true);
+        webView.loadUrl(url);
+    }
+
+    /*@Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         getSupportActionBar().hide();
@@ -40,7 +66,7 @@ public class MainActivity2 extends AppCompatActivity {
             }
         });
         webView.loadUrl(url);
-    }
+    }*/
 
     @Override
     public void onBackPressed() {
